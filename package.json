@@ -1,0 +1,22 @@
+{
+  "name": "sample-product-site",
+  "version": "1.0.0",
+  "description": "sample-product-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Mistele/sample-product-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-Mistele/sample-product-site/issues"
+  },
+  "homepage": "https://github.com/K-Mistele/sample-product-site#readme",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
